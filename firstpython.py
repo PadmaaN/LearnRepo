@@ -1,0 +1,2 @@
+* dfjdslk
+print("Hello world!")
